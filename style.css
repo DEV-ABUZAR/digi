@@ -1,0 +1,94 @@
+.head{
+    background-color: rgba(37, 45, 63, 1);
+    
+    font-family: roboto;
+}
+.head-content{
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    font-family: roboto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+
+.menu{
+    width: 100%;
+    justify-content: space-evenly;
+    font-family: roboto;
+}
+.digi{
+    width: 180px;
+}
+.btn-call{
+    width: 125px;
+    height: 37px;
+    left: 1579px;
+    top: 120px;
+    background: rgba(255, 36, 66, 1);
+    color: rgba(255, 255, 255, 1);
+    font-family: roboto;
+    border-radius: 0;
+    font-weight: 900;
+    font-size: 19px;
+
+}
+.login{
+    font-family: roboto;
+}
+.bg{
+    background: rgba(253, 213, 63, 1);
+    width: 102px;
+    height: 33px;
+     margin-top: 40px;
+}
+.text1{
+    font-family: roboto;
+    line-height: 20px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.bg2{
+    background: rgba(253, 213, 63, 1);
+    width: 220px;
+    height: 33px;
+     margin-top: 40px;}
+     .bg3{
+        background: rgba(253, 213, 63, 1);
+        width: 148px;
+        height: 33px;
+         margin-top: 40px;}
+         .card-top{
+            background-color: #252D3F !important;
+       
+        color: white;
+        height: 250px;
+        margin-bottom: 20px !important;
+        border-radius: 0px !important;
+         }
+         .card-bottom{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+           
+        
+         }
+         .card-top2{
+            background-image: url(28\ 1.png);
+        color: white;
+        height: 250px;
+        margin-bottom: 20px !important;
+        border-radius: 0px !important;
+        
+
+         }
+         .card-bottom2{
+           
+            display: flex;
+            justify-content: center;
+            align-items: center;
+           
+        
+         }

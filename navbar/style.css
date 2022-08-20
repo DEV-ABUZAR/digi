@@ -1,0 +1,67 @@
+.nav_menu{
+    width: 100%;
+    justify-content: space-evenly;
+    padding-left: 40px ;
+    padding-right: 40px;
+   
+font-family: 'Roboto', sans-serif
+}
+.digi{
+width: 195px;
+}
+.smtext{
+    
+
+    height: 108px;
+    left: 55px;
+    top: 307px;
+    
+    font-family: 'Roboto', sans-serif;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 35px;
+    }
+    .yellow-text{
+      background-color: #FDD53F;
+      font-family: 'Roboto', sans-serif;
+     
+        font-weight: 700;
+        font-size: 50px;
+    }
+  .detail{
+    margin-top: 85px;
+   }
+   .vectors{
+    line-height: 60px;
+   }
+  .text{
+    text-align: center;
+  
+  }
+  .vectors{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  @media screen  and (max-width:1199px) and (min-width:992px) {
+    .yellow-text{
+      font-size: 26px;
+    }
+  }
+  @media screen  and (max-width:991px) and (min-width:1px) {
+    .yellow-text{
+      font-size: 20px;
+    }
+  }
+  .info{
+    font-family: 'Roboto';
+    font-size: 12px;
+  }
+  .digi_content{
+    text-align: center;
+    width: 44%;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
